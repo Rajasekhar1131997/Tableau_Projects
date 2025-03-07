@@ -3,9 +3,9 @@
 This Tableau dashboard provides a comprehensive analysis of British Airways customer reviews. It visualizes key insights such as customer Seat Comfort, ratings distribution, Food, Entertainment, Type of AirCraft, and Reviews provided by Customers from different countries. The dataset has been processed to highlight factors influencing passenger satisfaction, enabling data-driven insights into airline performance.  
 
 # Worksheets Created
-Map View
-Graph View
-horizontal Bar View
+1. Map View
+2. Graph View
+3. Horizontal Bar View
 
 ## Tools & Technologies  
 - **Tableau** – For data visualization and interactive dashboards  
